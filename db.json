@@ -1,0 +1,70 @@
+{
+    "data":[
+        {
+            "name":"Lakme 9 to 5 Weightless Matte Mousse Lip & Cheek Color",
+            "image":"https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/b/0/b0131d423866_H-8901030729829.jpg",
+            "price":"1525",
+            "rating":"4.5/5"
+        },
+        {
+            "name":"Lakme Forever Matte Liquid Lip Color",
+            "image":"https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/2/4/24822_h-8901030790607m.jpg",
+            "price":"1314",
+            "rating":"4.3/5"
+        },
+        {
+            "name":"Lakme 9 To 5 Primer + Matte Lipstick",
+            "image":"https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/0/a/0ac71d424859_H-8901030794773.jpg",
+            "price":"1394",
+            "rating":"4.4/5"
+        },
+        {
+            "name":"Lakme Cushion Matte Lipstick",
+            "image":"https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/6/8/68160d124723_s1-8901030776861.jpg",
+            "price":"1266",
+            "rating":"4.8/5"
+        },
+        {
+            "name":"Lakme 9 To 5 Wet & Dry Compact",
+            "image":"https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/0/3/034f18d29360_H_8901030911682.jpg",
+            "price":"1118",
+            "rating":"4/5"
+        },
+        {
+            "name":"Lakme 9 To 5 Eyeconic Liquid Liner",
+            "image":"https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/8/0/804cb5924894_H_8901030872730.jpg",
+            "price":"1221",
+            "rating":"4.5/5"
+        },
+        {
+            "name":"Lakme 9 To 5 Primer + Matte Perfect Cover Foundation",
+            "image":"https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/e/5/e5081d424466_H-8901030742545.jpg",
+            "price":"1125",
+            "rating":"4.1/5"
+        },
+        {
+            "name":"Lakme 9to5 Primer + Matte Liquid Concealer",
+            "image":"https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/d/d/ddbf6388901030846328_1.jpg",
+            "price":"1325",
+            "rating":"4/5"
+        },
+        {
+            "name":"Lakme 9To5 Vitamin C+ Facial Serum With 98% Pure Vitamin C C...",
+            "image":"https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/b/8/b8b12b4LAKME00000134_1.jpg",
+            "price":"1120",
+            "rating":"4.5/5"
+        },
+        {
+            "name":"Lakme Lumi Skin Cream",
+            "image":"https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/2/9/2990f39LAKME00000281_0.jpg",
+            "price":"1025",
+            "rating":"4.7/5"
+        },
+        {
+            "name":"Lakme Complexion Care Face CC Cream",
+            "image":"https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/9/9/994f7f68901030583612_1.jpg",
+            "price":"1505",
+            "rating":"4.2/5"
+        }
+    ]
+}
