@@ -77,5 +77,313 @@
             "price":1505,
             "rating":4.2
         }
+    ],
+
+    "Maybelline":[
+        {
+            "id":1,
+            "name":"Maybelline New York Lash Sensational Sky High Waterproof Mas...",
+            "image":"https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/2/8/28449d8MAYBE00000375_1.jpg",
+            "price":719,
+            "rating":5
+        },
+        {
+            "id":2,
+            "name":"Maybelline New York The Colossal Volum Express Mascara",
+            "image":"https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/f/2/f25271c30079236_MME_1.jpg",
+            "price":341,
+            "rating":4.7
+        },
+        {
+            "id":3,
+            "name":"Maybelline New York Falsies Lash Lift Mascara - Very Black",
+            "image":"https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/5/0/503a9d86902395781660_1.jpg",
+            "price":540,
+            "rating":4.9
+        },
+        {
+            "id":4,
+            "name":"Maybelline New York Volum Express Hyper Curl Mascara",
+            "image":"https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/8/7/87189d86923492587443_MME_1.jpg",
+            "price":425,
+            "rating":3
+        },
+        {
+            "id":5,
+            "name":"Maybelline New York Lash Sensational Waterproof Mascara Blac...",
+            "image":"https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/6/e/6ead9d86902395395935_1.jpg",
+            "price":494,
+            "rating":3.3
+        },
+        {
+            "id":6,
+            "name":"Maybelline New York Eye Makeup Kit - Colossal Mascara + Tatt...",
+            "image":"https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/3/2/329db8bMAYBE00000468_1.jpg",
+            "price":1338,
+            "rating":3.8
+        },
+        {
+            "id":7,
+            "name":"Maybelline New York The Colossal Combo - Mascara + Bold Line...",
+            "image":"https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/a/a/aacbb8bMAYBE00000467_1.jpg",
+            "price":729,
+            "rating":3.5
+        },
+        {
+            "id":8,
+            "name":"Maybelline New York Lasting Drama Gel Eyeliner With Expert E...",
+            "image":"https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/0/f/0f929d86902395234708_1.jpg",
+            "price":520,
+            "rating":3.7
+        },
+        {
+            "id":9,
+            "name":"Maybelline New York The Colossal Mascara + Colossal Bold Lin...",
+            "image":"https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/a/9/a950b8bMAYBE00000481_1.jpg",
+            "price":574,
+            "rating":4.1
+        },
+        {
+            "id":10,
+            "name":"Maybelline New York The Colossal Bold Liner + Colossal Kajal...",
+            "image":"https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/a/b/ab72b8bMAYBE00000480_1.jpg",
+            "price":381,
+            "rating":4.4
+        },
+        {
+            "id":11,
+            "name":"Maybelline New York Super Stay Matte Ink Liquid Lipstick",
+            "image":"https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/7/9/79299d86902395706618_1.jpg",
+            "price":594,
+            "rating":4.9
+        },
+        {
+            "id":12,
+            "name":"Maybelline New York Fit Me Matte+Poreless Liquid Foundation ...",
+            "image":"https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/5/3/536b9d86902395718338_1.jpg",
+            "price":566,
+            "rating":4.1
+        },
+        {
+            "id":13,
+            "name":"Maybelline New York Fit Me Matte+Poreless Liquid Foundation ...",
+            "image":"https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/8/d/8d9e9d86902395722434_1.jpg",
+            "price":276,
+            "rating":3.9
+        },
+        {
+            "id":14,
+            "name":"Maybelline New York Color Sensational Creamy Matte Lipstick",
+            "image":"https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/3/d/3dce9d86902395472643_1.jpg",
+            "price":232,
+            "rating":4
+        },
+        {
+            "id":15,
+            "name":"Maybelline New York Sensational Liquid Matte Lipstick",
+            "image":"https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/0/a/0a879d86902395723004_1.jpg",
+            "price":319,
+            "rating":3
+        },
+        {
+            "id":16,
+            "name":"Maybelline New York Instant Age Rewind Eraser Dark Circles T...",
+            "image":"https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/0/4/04a19d86902395487432_1.jpg",
+            "price":629,
+            "rating":5
+        },
+        {
+            "id":17,
+            "name":"Maybelline New York Fit Me 12hr Oil Control Compact",
+            "image":"https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/a/1/a1379d8MAYBE00000020_1.jpg",
+            "price":225,
+            "rating":4.6
+        },
+        {
+            "id":18,
+            "name":"Maybelline New York Fit Me Concealer",
+            "image":"https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/2/7/27009d841554247725_1.jpg",
+            "price":449,
+            "rating":4.7
+        },
+        {
+            "id":19,
+            "name":"Maybelline New York Super Stay Full Coverage Foundation",
+            "image":"https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/8/7/875b9d86902395685715_1.jpg",
+            "price":559,
+            "rating":3.9
+        },
+        {
+            "id":20,
+            "name":"Maybelline New York Color Sensational Ultimattes Lipstick",
+            "image":"https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/e/e/ee63e50MAYBE00000252.jpg",
+            "price":509,
+            "rating":4.2
+        }
+
+
+    ],
+     "loreal":[
+        {
+            "id":1,
+            "name":"L'Oreal Paris Hyaluron Moisture Shampoo with Hyaluronic Acid...",
+            "image":"https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/e/0/e0d3cafLOREA00000356_1.jpg",
+            "price":919,
+            "rating":4
+
+        },
+        {
+            "id":2,
+            "name":"L'Oreal Paris Hyaluron Moisture Leave-In Night Cream with Hy...",
+            "image":"https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/0/c/0c7dcafLOREA00000358_1.jpg",
+            "price":449,
+            "rating":3.5
+
+        },
+        {
+            "id":3,
+            "name":"L'Oreal Paris Hyaluron Moisture 3-step Routine Hyaluron Mois...",
+            "image":"https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/8/1/81056ceLOrealParis007_1.jpg",
+            "price":1423,
+            "rating":3.6
+
+        },
+        {
+            "id":4,
+            "name":"L'Oreal Paris Hyaluron Moisture Conditioner with Hyaluronic ...",
+            "image":"https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/c/7/c700cafLOREA00000357_1.jpg",
+            "price":224,
+            "rating":3.4
+
+        },
+        {
+            "id":5,
+            "name":"L'Oreal Paris Extraordinary Oil Hair Serum",
+            "image":"https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/b/2/b28acaf6923700970449_1.jpg",
+            "price":527,
+            "rating":3.7
+
+        },
+        {
+            "id":6,
+            "name":"L'Oreal Paris Glycolic Bright Serum with 1% Glycolic Acid fo...",
+            "image":"https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/2/7/27a171cLOREA00000368_1.jpg",
+            "price":637,
+            "rating":3.3
+
+        },
+        {
+            "id":7,
+            "name":"L'Oreal Paris Hydrated & Radiant Skin Kit",
+            "image":"https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/6/a/6a98139LOREA00000420_1.jpg",
+            "price":1133,
+            "rating":3.8
+
+        },
+        {
+            "id":8,
+            "name":"L'Oreal Paris Glycolic Bright Day Regime",
+            "image":"https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/b/e/be291a3LOREA00000395_1.jpg",
+            "price":1102,
+            "rating":3.1
+
+        },
+        {
+            "id":9,
+            "name":"L'Oreal Paris Infallible 24h Matte Cover Liquid Foundation",
+            "image":"https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/b/1/b12a435LOREA00000052_1.jpg",
+            "price":849,
+            "rating":3.9
+
+        },
+        {
+            "id":10,
+            "name":"LOreal Paris Voluminous Lash Paradise Mascara - 204 Blackest...",
+            "image":"https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/9/0/900b43571249343326_1.jpg",
+            "price":764,
+            "rating":3
+
+        },
+        {
+            "id":11,
+            "name":"L'Oreal Paris Revitalift 1.5% Hyaluronic Acid Serum for Hydr...",
+            "image":"https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/d/f/df3f16cLOREA00000003.jpg",
+            "price":449,
+            "rating":4.9
+
+        },
+        {
+            "id":12,
+            "name":"L'Oreal Paris Magic Retouch Instant Root Concealer Spray",
+            "image":"https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/2/8/284b2a23600523192694_1.jpg",
+            "price":284,
+            "rating":4
+
+        },
+        {
+            "id":13,
+            "name":"L'Oreal Paris Excellence Creme Triple Care Hair Color",
+            "image":"https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/8/f/8f0316cLP_8901526100552.jpg",
+            "price":585,
+            "rating":4.7
+
+        },
+        {
+            "id":14,
+            "name":"L'Oreal Paris Casting Creme Gloss Hair Color",
+            "image":"https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/e/5/e5e73218901526101030_1.jpg",
+            "price":599,
+            "rating":4.8
+
+        },
+        {
+            "id":15,
+            "name":"L'Oreal Paris Glycolic Bright Day Cream with Glycolic Acid &...",
+            "image":"https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/6/f/6f8371cLOREA00000364_1.jpg",
+            "price":594,
+            "rating":4.6
+
+        },
+        {
+            "id":16,
+            "name":"L'Oreal Paris Infallible Full Wear Concealer",
+            "image":"https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/a/2/a2869d86902395735908_1.jpg",
+            "price":849,
+            "rating":4.1
+
+        },
+        {
+            "id":17,
+            "name":"L'Oreal Paris Glycolic Bright Face Cleanser with Glycolic Ac...",
+            "image":"https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/c/a/ca7f71cLOREA00000370_1.jpg",
+            "price":296,
+            "rating":4.2
+
+        },
+        {
+            "id":18,
+            "name":"L'Oreal Paris Revitalift Crystal Micro-Essence",
+            "image":"https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/f/4/f4e3c8f6923700934489_1.jpg",
+            "price":479,
+            "rating":4.3
+
+        },
+        {
+            "id":19,
+            "name":"L'Oreal Paris Dream Lengths Shampoo",
+            "image":"https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/a/c/ac98cafLOREA00000034_1.jpg",
+            "price":905,
+            "rating":4.4
+
+        },
+        {
+            "id":20,
+            "name":"L'Oreal Paris Dream Lengths No Haircut Cream",
+            "image":"",
+            "price":475,
+            "rating":4.5
+
+        }
+
     ]
 }
